@@ -2,7 +2,7 @@
 
 main()
 {
-    long nc;
+    double nc;
 
     for(nc = 0; getchar() != EOF; ++nc)
         ;
